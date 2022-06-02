@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pasanmd
-- 👀 I’m interested in devops, CI/CD , Containerization , Event streaming
+- 👀 I’m interested in devops, IAC,  CI/CD , Containerization , Event streaming
 - 🌱 I’m currently learning Docker , kuberentes, Kafka and GCP
 - 💞️ I’m looking to collaborate on Continues delivery  and automation work.
 - 📫 How to reach me pasanmd@gmail.com
